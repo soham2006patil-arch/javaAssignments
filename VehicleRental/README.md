@@ -36,19 +36,15 @@ The Vehicle Rental Management System implements an inheritance hierarchy in Java
 
 ---
 
-## 🖥️ Sample Receipt Output
-```text
-===== Vehicle Rental Receipt =====
-Vehicle Type   : Car
-Vehicle Number : MH12AB1234
-Model          : Honda City
-Customer Name  : Priya
-Rental Days    : 4
-Rate Per Day   : ₹1500
-Number of Seats: 5
-Total Amount   : ₹6000
-Vehicle rented successfully.
-```
+## 🖥️ Receipt Output
+<img width="484" height="516" alt="image" src="https://github.com/user-attachments/assets/b1900300-618f-4570-ba8c-0605cd37f651" />
+<img width="465" height="470" alt="image" src="https://github.com/user-attachments/assets/99ad563e-8a34-401c-84e5-7c76cf710a7a" />
+<img width="510" height="469" alt="image" src="https://github.com/user-attachments/assets/b3c961a4-103d-4097-a2a1-b284901d0c4d" />
+<img width="498" height="471" alt="image" src="https://github.com/user-attachments/assets/ce0cd256-e9d2-462e-bb0a-b87cdb112178" />
+<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/9aab6e71-31e6-4d54-bbcc-e157dd7bb72b" />
+<img width="479" height="296" alt="image" src="https://github.com/user-attachments/assets/b1ae4fb5-c83c-4d57-aa3a-889242e307bc" />
+<img width="583" height="196" alt="image" src="https://github.com/user-attachments/assets/270c610a-7f13-4c27-abfe-8aee3fc55807" />
+
 
 ---
 
