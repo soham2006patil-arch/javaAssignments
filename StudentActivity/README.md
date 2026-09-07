@@ -23,14 +23,10 @@ The Student Activity Management System is an interactive, menu-driven command-li
 
 ---
 
-## 🖥️ Sample Menu
-```text
-===== Student Activity Management System =====
-1. Check Attendance Eligibility
-2. View Performance Category
-3. Exit
-Enter your choice (1-3): 
-```
+## 🖥️ Menu
+
+<img width="485" height="411" alt="image" src="https://github.com/user-attachments/assets/90b3e7bd-06c0-497b-9965-cb856756ff50" />
+
 
 ---
 
