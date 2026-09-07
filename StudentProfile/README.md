@@ -1,0 +1,55 @@
+# Assignment 1: Student Profile & Calculator
+
+## 📌 Overview
+This assignment demonstrates the fundamentals of Java programming, including variable declaration, primitive data types, arithmetic operations, type casting, and formatted console output.
+
+---
+
+## 🎯 Concepts Covered
+- **Data Types & Variables**: `String`, `int`, `double`.
+- **Arithmetic Operators**: Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`).
+- **Explicit Type Casting**: Converting `int` to `double` for decimal precision during division.
+- **Formatted Printing**: Printing structured profile details and calculated results.
+
+---
+
+## 💻 Code Structure
+- **Class**: `StudentProfileCalculator`
+- **Package**: `NewAssignmnets.StudentProfile`
+- **Key Operations**:
+  - Declares student profile information (Name, Roll No, Course, Year).
+  - Performs basic arithmetic calculations between two integers.
+  - Outputs a cleanly formatted summary.
+
+---
+
+## 🖥️ Sample Output
+```text
+===== Student Profile =====
+Name            : Soham Patil
+Roll No         : 1191
+Course          : B.Tech Computer Engineering
+Year            : Second Year
+
+===== Calculator =====
+First Number    : 25
+Second Number   : 10
+
+Addition        : 35
+Subtraction     : 15
+Multiplication  : 250
+Division        : 2.5
+```
+
+---
+
+## 🚀 How to Compile & Run
+From the root workspace directory:
+
+```bash
+# Compile
+javac NewAssignmnets/StudentProfile/StudentProfileCalculator.java
+
+# Run
+java NewAssignmnets.StudentProfile.StudentProfileCalculator
+```
