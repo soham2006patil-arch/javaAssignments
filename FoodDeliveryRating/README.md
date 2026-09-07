@@ -24,6 +24,8 @@ The Food Delivery Rating Analyzer models a rating analysis engine for food deliv
   - `calcAvg(int[][] arr, int row)`: Overloaded method to calculate average rating for a row in a 2-D array.
 
 ---
+<img width="444" height="339" alt="image" src="https://github.com/user-attachments/assets/a39b008c-32ba-459e-a93b-b84dd0cc812b" />
+
 
 ## 🚀 How to Compile & Run
 From the root workspace directory:
