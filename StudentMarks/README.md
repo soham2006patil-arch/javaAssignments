@@ -28,18 +28,17 @@ This system manages multi-subject academic records for students using 2D arrays.
 
 ---
 
-## 🖥️ Sample Menu
-```text
-===== Student Marks Management System =====
-1. Display All Marks
-2. Calculate Student Total
-3. Calculate Student Average
-4. Find Highest Scorer & Subject-Wise Highest
-5. Search Marks (Linear Search)
-6. Sort Student Totals (Bubble Sort)
-7. Exit
-Enter your choice (1-7): 
-```
+## 🖥️ Menu
+<img width="434" height="320" alt="image" src="https://github.com/user-attachments/assets/537ff6fc-d281-42bd-b71f-72061d262069" />
+<img width="415" height="281" alt="image" src="https://github.com/user-attachments/assets/d3d195cf-ad13-4cde-8fbc-a65d68a5ae08" />
+<img width="416" height="278" alt="image" src="https://github.com/user-attachments/assets/2aef0489-360d-4aa7-b4a3-4194e9f1ae20" />
+<img width="412" height="278" alt="image" src="https://github.com/user-attachments/assets/17130865-a730-4fb7-b4c0-ffe9cdfd0b54" />
+<img width="412" height="278" alt="image" src="https://github.com/user-attachments/assets/0bc19487-7b7c-46a3-95d0-5d89414ed3c4" />
+<img width="433" height="282" alt="image" src="https://github.com/user-attachments/assets/5ed82127-24f7-4d30-9cef-85f7da08320e" />
+<img width="492" height="294" alt="image" src="https://github.com/user-attachments/assets/ccf86b32-5b80-4fd9-bbcb-e471a17d0227" />
+
+
+
 
 ---
 
