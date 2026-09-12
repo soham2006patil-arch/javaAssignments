@@ -18,8 +18,10 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 │   └── StudentMarksManagementSystem.java      # 2D array marks analysis, searching & sorting
 ├── HotelBooking/
 │   └── HotelRoomBookingSystem.java            # Room booking system with encapsulation & static tracking
-└── VehicleRental/
-    └── VehicleRentalSystem.java               # Vehicle rental system with inheritance & polymorphism
+├── VehicleRental/
+│   └── VehicleRentalSystem.java               # Vehicle rental system with inheritance & polymorphism
+└── EcommerceCouponValidator/
+    └── Ecommerce_coupon_validator.java        # E-commerce coupon validation with custom exception handling
 ```
 
 ---
@@ -50,6 +52,11 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 - Inheritance hierarchy: Parent class `Vehicle` extended by `Car`, `Bike`, `Scooter`, and `ElectricCar`.
 - Subclass-specific properties (Seats, Engine Capacity, Storage, Battery Capacity).
 - Dynamic rental calculations, input validation, and formatted receipt generation.
+
+### 7. E-Commerce Coupon Validator (`EcommerceCouponValidator`)
+- User-defined custom exception handling (`InvalidCouponException`).
+- Validation of coupon codes (`SAVE10`, `SAVE20`, `SAVE30`) against minimum order amount thresholds.
+- Exception propagation, error handling with `try-catch-finally`, and interactive console loop.
 
 ---
 
