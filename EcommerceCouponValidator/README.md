@@ -23,6 +23,10 @@ The E-Commerce Coupon Validator models a promotional discount validation system 
 
 *Orders that do not meet the minimum amount or use an invalid coupon code throw an `InvalidCouponException`.*
 
+## Output
+<img width="415" height="214" alt="image" src="https://github.com/user-attachments/assets/693c5df6-06af-4969-b616-128da97bf665" />
+
+
 ---
 
 ## 💻 Code Structure
