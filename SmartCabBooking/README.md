@@ -70,22 +70,5 @@ java Main
 
 ## 📋 Sample Input & Output
 
-### Input
-```
-Enter Passenger Name: Apeksha
-Enter Cab Type (MINI / SEDAN / SUV): SEDAN
-Enter Base Fare (₹): 500
-Enter Pickup Location: Mumbai
-```
+<img width="446" height="361" alt="Screenshot 2026-09-14 at 7 18 28 PM" src="https://github.com/user-attachments/assets/1777d702-13f4-4677-870b-d3bb25576304" />
 
-### Expected Output
-```
-===== Smart Cab Booking System =====
-Passenger Name: Apeksha
-Cab Type: SEDAN
-Base Fare: ₹500
-Booking Fee: ₹50
-Final Fare: ₹550
-Pickup Location: Mumbai
-Booking confirmed successfully.
-```
