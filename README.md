@@ -20,8 +20,14 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 │   └── HotelRoomBookingSystem.java            # Room booking system with encapsulation & static tracking
 ├── VehicleRental/
 │   └── VehicleRentalSystem.java               # Vehicle rental system with inheritance & polymorphism
-└── EcommerceCouponValidator/
-    └── Ecommerce_coupon_validator.java        # E-commerce coupon validation with custom exception handling
+├── EcommerceCouponValidator/
+│   └── Ecommerce_coupon_validator.java        # E-commerce coupon validation with custom exception handling
+└── SmartCabBooking/
+    ├── cab/booking/
+    │   ├── CabBooking.java                    # Packages, wrapper classes, inner class & StringBuilder
+    │   ├── CabType.java                       # Enum definition for cab types
+    │   └── BookingConfirmation.java           # Interface for anonymous class confirmation
+    └── Main.java                              # Driver class with user input & imports
 ```
 
 ---
@@ -58,6 +64,15 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 - Validation of coupon codes (`SAVE10`, `SAVE20`, `SAVE30`) against minimum order amount thresholds.
 - Exception propagation, error handling with `try-catch-finally`, and interactive console loop.
 
+### 8. Smart Cab Booking System (`SmartCabBooking`)
+- **Package & Imports**: Custom `cab.booking` package imported into the driver `Main` class.
+- **Enums**: `CabType` (MINI, SEDAN, SUV).
+- **Wrapper Classes**: `Integer` and `Double` with demonstrated Autoboxing and Unboxing.
+- **Constants**: `final` variable for fixed booking fee.
+- **String Manipulation**: `StringBuilder` for constructing booking summaries.
+- **Nested Classes**: Inner class `PickupLocation` for passenger pickup address.
+- **Anonymous Classes**: Dynamic `BookingConfirmation` implementation for confirmation messages.
+
 ---
 
 ## 🛠️ How to Compile & Run
@@ -65,9 +80,8 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 Compile and run from the repository root:
 
 ```bash
-# Compile all files
-javac */*.java
-
-# Run a specific assignment (e.g., Vehicle Rental System)
-java VehicleRental.VehicleRentalSystem
+# Compile and run Smart Cab Booking System
+cd SmartCabBooking
+javac cab/booking/*.java Main.java
+java Main
 ```
