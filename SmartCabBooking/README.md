@@ -70,5 +70,8 @@ java Main
 
 ## 📋 Sample Input & Output
 
-<img width="446" height="361" alt="Screenshot 2026-09-14 at 7 18 28 PM" src="https://github.com/user-attachments/assets/1777d702-13f4-4677-870b-d3bb25576304" />
+<img width="565" height="210" alt="image" src="https://github.com/user-attachments/assets/abe5eced-c211-43ff-948f-f79eecaaab89" />
 
+<img width="508" height="642" alt="image" src="https://github.com/user-attachments/assets/bccf8f0d-f747-4e91-9494-b1de1e8a64b9" />
+
+<img width="526" height="484" alt="image" src="https://github.com/user-attachments/assets/ccb90b87-f286-4cf7-9e3c-b081a6d3f13b" />
