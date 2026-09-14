@@ -22,12 +22,14 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 │   └── VehicleRentalSystem.java               # Vehicle rental system with inheritance & polymorphism
 ├── EcommerceCouponValidator/
 │   └── Ecommerce_coupon_validator.java        # E-commerce coupon validation with custom exception handling
-└── SmartCabBooking/
-    ├── cab/booking/
-    │   ├── CabBooking.java                    # Packages, wrapper classes, inner class & StringBuilder
-    │   ├── CabType.java                       # Enum definition for cab types
-    │   └── BookingConfirmation.java           # Interface for anonymous class confirmation
-    └── Main.java                              # Driver class with user input & imports
+├── SmartCabBooking/
+│   ├── cab/booking/
+│   │   ├── CabBooking.java                    # Packages, wrapper classes, inner class & StringBuilder
+│   │   ├── CabType.java                       # Enum definition for cab types
+│   │   └── BookingConfirmation.java           # Interface for anonymous class confirmation
+│   └── Main.java                              # Driver class with user input & imports
+└── StudentRecordFileManager/
+    └── StudentRecordFileManager.java          # File class, FileInputStream, FileOutputStream & exception handling
 ```
 
 ---
@@ -73,6 +75,13 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 - **Nested Classes**: Inner class `PickupLocation` for passenger pickup address.
 - **Anonymous Classes**: Dynamic `BookingConfirmation` implementation for confirmation messages.
 
+### 9. Student Record File Manager (`StudentRecordFileManager`)
+- **File Management**: `File` class methods (`mkdir()`, `exists()`, `createNewFile()`, `delete()`, `length()`, etc.).
+- **Byte Stream Writing**: `FileOutputStream` writing byte arrays converted via `getBytes()`.
+- **Byte Stream Reading**: `FileInputStream` reading byte-by-byte with `read()` until EOF (`-1`).
+- **Append Mode**: Using `FileOutputStream(file, true)` for non-destructive record additions.
+- **Exception Handling**: Comprehensive `try-catch-finally` handling for `IOException` and `SecurityException`.
+
 ---
 
 ## 🛠️ How to Compile & Run
@@ -80,8 +89,7 @@ A curated repository of Java Object-Oriented Programming (OOP) assignments and p
 Compile and run from the repository root:
 
 ```bash
-# Compile and run Smart Cab Booking System
-cd SmartCabBooking
-javac cab/booking/*.java Main.java
-java Main
+# Compile and run Student Record File Manager
+javac StudentRecordFileManager/StudentRecordFileManager.java
+java StudentRecordFileManager.StudentRecordFileManager
 ```
