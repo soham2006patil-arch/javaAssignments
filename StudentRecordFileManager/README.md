@@ -70,27 +70,8 @@ java StudentRecordFileManager.StudentRecordFileManager
 
 ## 📋 Sample Execution Flow
 
-```text
-===== Student Record File Manager =====
-Directory created: StudentRecords
-File created: StudentRecords/student.txt
-Record written successfully.
+<img width="777" height="630" alt="image" src="https://github.com/user-attachments/assets/9cab6171-2d9a-4136-a2ec-50bb4ee4d109" />
 
-===== File Information =====
-Name          : student.txt
-Path          : StudentRecords/student.txt
-Absolute Path : /path/to/StudentRecords/student.txt
-Size          : 37 bytes
-Is File       : true
-Is Directory  : false
+<img width="749" height="741" alt="image" src="https://github.com/user-attachments/assets/0bc7b3fe-20d8-43d0-a50a-ca3f6a3aec25" />
 
-===== File Content =====
-Roll No 101, Rahul Sharma, B.Tech CE
-Record appended successfully.
-
-===== File Content (After Append) =====
-Roll No 101, Rahul Sharma, B.Tech CE
-Roll No 102, Priya Verma, B.Tech IT
-
-File deleted successfully.
-```
+<img width="454" height="379" alt="image" src="https://github.com/user-attachments/assets/b9e1af62-0e1e-49a9-833b-365c345b05ef" />
